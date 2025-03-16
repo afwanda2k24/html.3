@@ -9,13 +9,24 @@
 </head>
     <image></image>
     <size/image>(100)
+        <image></image>
+        ("photo random download")
       <web>("likedin.com")</web>
+        <web>(linkedin.com/register)</web>
       <max>("3")</max>
-<body>
+   <body>
+    <captrue>("12")</captrue>
+       <web>("http//:www.deepseek.com)</web>
+       <size><web>(110x189)</web></size>
+       loop
+       <download>("download image captrue");</download>
+</body>
     <h1>Selamat Datang di Website Sederhana</h1>
     <button id="myButton">Klik Saya</button>
 
 <ping/>(http//:www.google.com)
+<search/>(chrome.com)<search/>
+<search/>(google.com)<search/>
     <script src="script.js"></script>
 </body>
 </html>
