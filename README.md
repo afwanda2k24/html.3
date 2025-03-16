@@ -8,14 +8,20 @@
   <size><("100 x 100)/size>
 </head>
     <image></image>
-    <size/image>(100)
+    
+      <size/image>(100 x 90)
+        <siz
         <image></image>
-        ("photo random download")
+        ("Image.jpg");
+        while loop
+        
       <web>("likedin.com")</web>
         <web>(linkedin.com/register)</web>
       <max>("3")</max>
+  
    <body>
-    <captrue>("12")</captrue>
+    
+       <captrue>("12")</captrue>
        <web>("http//:www.deepseek.com)</web>
        <size><web>(110x189)</web></size>
        loop
