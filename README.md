@@ -5,10 +5,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Website Sederhana</title>
     <link rel="stylesheet" href="styles.css">
-  <size><("100 x 100)/size>
+  
+    <size><("100 x 100)/size>
+<style></style>
 </head>
     <image></image>
-    
+                font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+        }
+    </style>
+</head>
+<body>
+    <header>
+
       <size/image>(100 x 90)
         <siz
         <image></image>
